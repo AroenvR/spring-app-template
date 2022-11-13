@@ -1,6 +1,6 @@
 ### Files to edit:
 
-pom.xml
+pom.xml (artifact & group Id's)
 
 resources:
 application.properties
