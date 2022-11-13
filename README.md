@@ -2,8 +2,8 @@
 
 pom.xml (artifact & group Id's)
 
-resources:
-application.properties
-db.migrations
+resources:  
+application.properties (schema, password)  
+db.migrations  
 
 Rename the main [SpringTemplate]Application class
